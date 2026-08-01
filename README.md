@@ -32,6 +32,14 @@ Building Scalable Mobile, Web & Backend Solutions
 <img src="https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
+## 📄 Professional Summary
+
+Full Stack Software Engineer specializing in Flutter, Node.js, Firebase, REST APIs, and AI Integration.
+
+Experienced in building scalable mobile applications, backend services, and modern web solutions with clean architecture and production-ready code.
+
+Focused on performance, maintainability, and real-world business solutions.
+
 <a href="YOUR_UPWORK">
 <img src="https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
