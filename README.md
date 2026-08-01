@@ -1,59 +1,47 @@
-<h1 align="center">Hi 👋, I'm Jawad Ali Shah</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Software Engineer
-</h3>
+# 👋 Hi, I'm Jawad Ali Shah
 
-<p align="center">
-Flutter • Node.js • Firebase • AI Integration
-</p>
+### Full Stack Software Engineer
 
-<p align="center">
-Building Scalable Mobile, Web & Backend Solutions
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Flutter+Developer;Node.js+Backend+Developer;REST+API+Developer;Firebase+Developer;AI+Integration;OpenAI+API+Developer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Flutter+Developer;Node.js+Backend+Developer;REST+API+Developer;Firebase+Expert;AI+Integration;OpenAI+API+Developer" alt="Typing SVG" />
-</p>
+<br>
 
-<h3 align="center">💼 Available for Freelance • Remote • Contract • Full-Time</h3>
+## 💼 Available for Freelance • Remote • Contract • Full-Time
 
-<p align="center">
+<p>
 
 <a href="mailto:jawadalishah.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_FIVERR">
-<img src="https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+<img src="https://img.shields.io/badge/🟢%20Hire%20on%20Fiverr-1DBF73?style=for-the-badge"/>
 </a>
-
-## 📄 Professional Summary
-
-Full Stack Software Engineer specializing in Flutter, Node.js, Firebase, REST APIs, and AI Integration.
-
-Experienced in building scalable mobile applications, backend services, and modern web solutions with clean architecture and production-ready code.
-
-Focused on performance, maintainability, and real-world business solutions.
 
 <a href="YOUR_UPWORK">
-<img src="https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/🟢%20Hire%20on%20Upwork-6FDA44?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="YOUR_WHATSAPP">
+<img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge"/>
 </a>
 
 </p>
-| Category            | Expertise                     |
-| ------------------- | ----------------------------- |
-| Mobile Development  | Flutter, Dart                 |
-| Backend Development | Node.js, Express.js           |
-| Database            | MongoDB, Firebase             |
-| APIs                | REST API, Socket.IO           |
-| AI                  | OpenAI API Integration        |
-| Tools               | Git, GitHub, Postman, VS Code |
+
+</div>
+
+---
+
+# 📄 Professional Summary
+
+Full Stack Software Engineer specializing in **Flutter, Node.js, Firebase, REST APIs, MongoDB, Express.js, and AI Integration**.
+
+Experienced in building scalable mobile applications, backend systems, and modern web solutions using clean architecture and production-ready code.
+
+Focused on performance, maintainability, security, and real-world business solutions.
