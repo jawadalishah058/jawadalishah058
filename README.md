@@ -49,3 +49,11 @@ Focused on performance, maintainability, and real-world business solutions.
 </a>
 
 </p>
+| Category            | Expertise                     |
+| ------------------- | ----------------------------- |
+| Mobile Development  | Flutter, Dart                 |
+| Backend Development | Node.js, Express.js           |
+| Database            | MongoDB, Firebase             |
+| APIs                | REST API, Socket.IO           |
+| AI                  | OpenAI API Integration        |
+| Tools               | Git, GitHub, Postman, VS Code |
