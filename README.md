@@ -38,10 +38,55 @@
 
 ---
 
-# 📄 Professional Summary
+           # 📄 Professional Summary
 
 Full Stack Software Engineer specializing in **Flutter, Node.js, Firebase, REST APIs, MongoDB, Express.js, and AI Integration**.
 
 Experienced in building scalable mobile applications, backend systems, and modern web solutions using clean architecture and production-ready code.
 
 Focused on performance, maintainability, security, and real-world business solutions.
+
+
+## 🚀 What I Deliver
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🚀
+### Scalable Solutions
+
+Production Ready Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+### Clean Architecture
+
+Maintainable & Modular Code
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+### High Performance
+
+Optimized & Fast Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔒
+### Secure Development
+
+Best Practices & Security
+
+</td>
+
+</tr>
+</table>
