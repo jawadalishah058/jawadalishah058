@@ -88,6 +88,7 @@ Best Practices & Security
 
 </td>
 
+
 </tr>
 </table>
 
@@ -98,3 +99,15 @@ Best Practices & Security
 <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,react,git,github,postman,vscode,figma"/>
 
 </p>
+
+## 💼 Core Expertise
+
+| Category | Technologies |
+|-----------|--------------|
+| 📱 Mobile Development | Flutter • Dart |
+| 🌐 Backend Development | Node.js • Express.js |
+| 🗄️ Database | MongoDB • Firebase |
+| 🔗 APIs | REST API • Socket.IO |
+| 🤖 AI Integration | OpenAI API |
+| ☁️ Cloud | Firebase Services |
+| 🛠️ Tools | Git • GitHub • VS Code • Postman • Figma |
