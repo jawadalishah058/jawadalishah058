@@ -1,19 +1,13 @@
-# Hi, I'm Jawad Ali Shah 
+<h1 align="center">Hi 👋, I'm Jawad Ali Shah</h1>
 
-## Full Stack Software Engineer
+<h3 align="center">
+Full Stack Software Engineer
+</h3>
 
-Specialized in:
+<p align="center">
+Flutter • Node.js • Firebase • AI Integration
+</p>
 
-- Flutter
-- Dart
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- React
-- REST APIs
-- Socket.IO
-- OpenAI API
-- AI Integration
-
-This profile is currently under development.
+<p align="center">
+Building Scalable Mobile, Web & Backend Solutions
+</p>
