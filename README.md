@@ -90,3 +90,11 @@ Best Practices & Security
 
 </tr>
 </table>
+
+## 🛠️ Primary Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,react,git,github,postman,vscode,figma"/>
+
+</p>
